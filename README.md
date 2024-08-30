@@ -1,16 +1,5 @@
 # Project_phase3
 
-CREDIT CARD FRAUD 
-DETECTION
-Using Classification Models to Identify Fraudulent 
-Transactions
-•Student name: William Muthama
-•Student pace: part time hybrid
-•Scheduled project review date/time: 27th August to 30th August
-•Instructor name: Anthonny Muiko
-•Blog post URL: https://github.com/WILLY-GUSH/Project_phase3
-
-
 OVERVIEW
 Objective
 •The goal of this project is to develop a system that accurately identifies fraudulent credit 
